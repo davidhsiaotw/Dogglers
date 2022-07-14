@@ -23,7 +23,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.dogglers"
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion 32
         versionCode 1
         versionName "1.0"
