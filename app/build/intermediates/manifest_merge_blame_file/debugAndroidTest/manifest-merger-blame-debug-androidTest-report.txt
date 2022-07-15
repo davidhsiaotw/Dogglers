@@ -3,24 +3,24 @@
 3    package="com.example.dogglers.test" >
 4
 5    <uses-sdk
-5-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:5:5-74
-6        android:minSdkVersion="21"
-6-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:5:15-41
+5-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:5:15-41
 7        android:targetSdkVersion="32" />
-7-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:5:42-71
+7-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:5:42-71
 8
 9    <instrumentation
-9-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:11:5-15:70
+9-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:11:5-15:70
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:11:22-76
+10-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:11:22-76
 11        android:functionalTest="false"
-11-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:14:22-52
+11-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:14:22-52
 12        android:handleProfiling="false"
-12-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:13:22-53
+12-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:13:22-53
 13        android:label="Tests for com.example.dogglers"
-13-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:15:22-68
+13-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:15:22-68
 14        android:targetPackage="com.example.dogglers" />
-14-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:12:22-66
+14-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:12:22-66
 15
 16    <queries>
 16-->[androidx.test:runner:1.4.0] C:\Users\90637\.gradle\caches\transforms-3\43ff15c41fe04f8e1b7dadb666f6535c\transformed\runner-1.4.0\AndroidManifest.xml:24:5-28:15
@@ -36,10 +36,10 @@
 20    </queries>
 21
 22    <application android:debuggable="true" >
-22-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:7:5-9:19
+22-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:7:5-9:19
 23        <uses-library android:name="android.test.runner" />
-23-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:8:9-60
-23-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest688162742445739622.xml:8:23-57
+23-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:8:9-60
+23-->C:\David\AppProject\Dogglers\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10733579118554049760.xml:8:23-57
 24    </application>
 25
 26</manifest>

@@ -20,6 +20,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ed187a264b1d33ac94b24f044a3c7adf/transformed/espresso-core-3.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/38d1a8dd5cd062029cca3150fd0d0fe5/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f6dab87c3e0da302a7c44b2bee84e764/transformed/jetified-kotlin-stdlib-jdk8-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/ba02a29c89c0375727a51373d9e0f9b7/transformed/multidex-instrumentation-2.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3c624971215e26180ff66aa3bc7cfc87/transformed/runner-1.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/04dde563c4e87845e8ee9c4a321fa4af/transformed/jetified-junit-4.12.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/cf7180357309eb156ac0c9ebdb540195/transformed/jetified-hamcrest-integration-1.3.jar</arg>
@@ -93,6 +94,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b4c070c3ffc50ee468e6ab47e7bf7c07/transformed/jetified-annotations-13.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4951f06f05b4dc3590d1086396c34772/transformed/constraintlayout-2.1.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b402e5b20a716344305ce791ade69351/transformed/jetified-accessibility-test-framework-3.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5063ae04de23f40c761d21d6ca46efcc/transformed/multidex-2.0.0-api.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
@@ -220,6 +222,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:3.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex-instrumentation:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-testing:1.4.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.4.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.2.3@aar" level="project" />

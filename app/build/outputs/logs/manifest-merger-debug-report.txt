@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
+INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
+INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
+INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\90637\.gradle\caches\transforms-3\6d2ccefbd46df9b3fcbdfb2dbcf4c0be\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\90637\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:17:1-40:12
 MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\90637\.gradle\caches\transforms-3\abaac15efeaacf7c053ea392bb1facb6\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
@@ -15,6 +15,7 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\90637\.gradle\caches
 MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\90637\.gradle\caches\transforms-3\55ce658849d6b5e2543105aec056d8f1\transformed\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\90637\.gradle\caches\transforms-3\f31c9db17a29d5931dec46ee9f7f5a1b\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\90637\.gradle\caches\transforms-3\d27df0c8a82b10f83f40790b71fb6043\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\90637\.gradle\caches\transforms-3\3778b7821df2a1d798e8c4a5e9d7821d\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.test:core:1.4.0] C:\Users\90637\.gradle\caches\transforms-3\5088ca7dabc86f4e562a79d9aff85233\transformed\jetified-core-1.4.0\AndroidManifest.xml:17:1-53:12
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\90637\.gradle\caches\transforms-3\9504e96b31263bee974210fb605fcb3d\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\90637\.gradle\caches\transforms-3\162a227cb2125e5b72a192057ba8b0cc\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
@@ -60,25 +61,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\90637\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\90637\.gradle\caches\transforms-3\8006f846be8659bfe4446d7ecaf90056\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\90637\.gradle\caches\transforms-3\4096df0bf556527fd3e7cfc9baec4e80\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\90637\.gradle\caches\transforms-3\0525a178442881d8c59b8e9666a64c34\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
-INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
+INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
+INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
 	package
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:18:5-35
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:5-35
 		INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml
 		INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
 		INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:1-52:12
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:1-53:12
 		INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:16:11-69
 application
-ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:20:5-50:19
+ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:19:5-51:19
 MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\90637\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:27:5-38:19
 MERGED from [androidx.fragment:fragment-testing:1.4.1] C:\Users\90637\.gradle\caches\transforms-3\7156d730581db6ab6be816663843833b\transformed\jetified-fragment-testing-1.4.1\AndroidManifest.xml:27:5-38:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\90637\.gradle\caches\transforms-3\524e29a915b36a842d68532d8af20ed8\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
@@ -111,6 +112,8 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\90637\.gradle\cach
 		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:21:9-35
 	android:theme
 		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:26:9-46
+	android:name
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:20:9-61
 activity#com.example.dogglers.VerticalListActivity
 ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:27:9-31:20
 	android:name
@@ -130,21 +133,21 @@ ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:37:9-41
 	android:name
 		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:37:19-51
 activity#com.example.dogglers.MainActivity
-ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:42:9-49:20
+ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:42:9-50:20
 	android:exported
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:44:13-36
 	android:name
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:42:19-47
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:43:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:44:13-48:29
+ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:45:13-49:29
 action#android.intent.action.MAIN
-ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:45:17-69
+ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:46:17-69
 	android:name
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:45:25-66
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:46:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:47:17-77
+ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:48:17-77
 	android:name
-		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:47:27-74
+		ADDED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml:48:27-74
 uses-sdk
 INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\David\AppProject\Dogglers\app\src\main\AndroidManifest.xml
@@ -171,6 +174,8 @@ MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\90637\.gradle\caches
 MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\90637\.gradle\caches\transforms-3\f31c9db17a29d5931dec46ee9f7f5a1b\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\90637\.gradle\caches\transforms-3\d27df0c8a82b10f83f40790b71fb6043\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\90637\.gradle\caches\transforms-3\d27df0c8a82b10f83f40790b71fb6043\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\90637\.gradle\caches\transforms-3\3778b7821df2a1d798e8c4a5e9d7821d\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\90637\.gradle\caches\transforms-3\3778b7821df2a1d798e8c4a5e9d7821d\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.test:core:1.4.0] C:\Users\90637\.gradle\caches\transforms-3\5088ca7dabc86f4e562a79d9aff85233\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.test:core:1.4.0] C:\Users\90637\.gradle\caches\transforms-3\5088ca7dabc86f4e562a79d9aff85233\transformed\jetified-core-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\90637\.gradle\caches\transforms-3\9504e96b31263bee974210fb605fcb3d\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41

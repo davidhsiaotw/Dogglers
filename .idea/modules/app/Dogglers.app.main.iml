@@ -16,6 +16,7 @@
                 <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/38d1a8dd5cd062029cca3150fd0d0fe5/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f6dab87c3e0da302a7c44b2bee84e764/transformed/jetified-kotlin-stdlib-jdk8-1.6.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5063ae04de23f40c761d21d6ca46efcc/transformed/multidex-2.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/359cee31a4d0c6a693a306ea06a00a6e/transformed/jetified-fragment-testing-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a98ee2186f528e926c1a288f07f9ab76/transformed/jetified-fragment-ktx-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8062df70dc477f9fda62a3c70b40e9fd/transformed/material-1.6.0-api.jar</arg>
@@ -145,6 +146,7 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.4.1" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection-ktx:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.databinding:viewbinding:7.2.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.fragment:fragment-testing:1.4.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.fragment:fragment-ktx:1.4.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.4.1@aar" level="project" />
